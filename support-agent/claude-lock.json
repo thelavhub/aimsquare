@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "resources": {
+    "./agents/support-agent.md": {
+      "kind": "agent",
+      "id": "agent_01SpcDcgPa2w1zEKQdhfKaYj",
+      "version": "1",
+      "hash": ""
+    }
+  }
+}
